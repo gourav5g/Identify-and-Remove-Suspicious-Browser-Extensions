@@ -94,7 +94,7 @@ Extensions Removed:
 
 ---
 
-## 📄 Sample Report
+## 📄 Report
 
 ### 🛡️ Title: Browser Extension Audit Report
 
